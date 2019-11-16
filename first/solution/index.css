@@ -12,10 +12,9 @@ body {
 }
 
 .main-content {
-  background-color: #EFEFEF;
-  margin: 0 auto;
+  background-color: grey;
   width: 75%;
-  height: 70vh;
+  height: 55;
 }
 
 .footer { 
